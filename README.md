@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=F7A3D2&width=300&lines=🚀+Hi,+I'm+ilovezerocokeya!;💻+Frontend+Developer;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=F7A3D2&width=300&lines=🚀+Hi,+I'm;+🥤ilovezerocokeya!;💻+Frontend+Developer;">
 </p>
 
 ## 📝 About Me  
