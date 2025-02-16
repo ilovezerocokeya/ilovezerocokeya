@@ -1,4 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7A3D2&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+ilovezerocokeya!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=F7A3D2&width=500&lines=🚀+Hi,+I'm+ilovezerocokeya!;💻+Frontend+Developer;✨+React+%7C+Next.js+%7C+TypeScript+%7C+Supabase">
+</p>
 ---
 
 ## 📝 About Me  
@@ -13,7 +15,7 @@
 항상 **명분 있는 개발을 하기 위해** 코드의 가독성과 유지보수성을 고민하며,  
 **더 나은 성능과 사용자 경험을 제공하기 위해 학습하고 성장**하고 있습니다.  
 
-제 목표는 **"문제를 해결하는 개발자"**가 되는 것입니다.  
+제 목표는 **문제를 해결하는 것에서 멈추지 않고, 더 나은 경험과 가치를 만들어내는 개발자**가 되는 것입니다.  
 
 ---
 
@@ -47,7 +49,7 @@
       <b>Tailwind CSS</b>
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="40"><br/>
+      <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="40"><br/>
       <b>Styled-Components</b>
     </td>
   </tr>
@@ -63,7 +65,7 @@
       <b>Figma</b>
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Jira_Logo.svg" width="40"><br/>
+      <img src="https://seeklogo.com/images/J/jira-logo-FD39BE7285-seeklogo.com.png" width="40"><br/>
       <b>Jira</b>
     </td>
     <td align="center" width="120">
@@ -81,8 +83,8 @@
 
 ## 📊 GitHub Stats & Most Used Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilovezerocokeya&show_icons=true&theme=tokyonight" width="47%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilovezerocokeya&layout=compact&theme=tokyonight" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilovezerocokeya&show_icons=true&theme=tokyonight" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilovezerocokeya&layout=compact&theme=tokyonight" width="49%">
 </div>
 
 ---
@@ -95,5 +97,5 @@
 ---
 
 ## 📫 Contact Me  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1470008077a@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ilovezerocokeya)  
