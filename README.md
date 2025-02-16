@@ -1,4 +1,4 @@
-# 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7A3D2&width=435&lines=Hi,+I'm+ilovezerocokeya!)](https://git.io/typing-svg)
+#  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7A3D2&width=435&lines=👋 + Hi,+I'm+ilovezerocokeya!)](https://git.io/typing-svg)
 
 ---
 
@@ -22,29 +22,8 @@
       <b>Next.js</b>
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/logo.svg" width="40">
-      <br/>
-      <b>Zustand</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/><br/>
-      <b>Tailwind CSS</b>
-    </td>
-    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/><br/>
       <b>Supabase</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/><br/>
-      <b>GitHub</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jira_icon_130618.png" width="40"><br/>
-      <b>Jira</b>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/><br/>
@@ -63,15 +42,6 @@
 - 🔹 **React & TypeScript 기반의 모던 웹 개발에 집중**  
 - 🔹 **퍼포먼스 최적화와 효율적인 상태 관리**에 관심  
 - 🔹 **단순한 기능 구현이 아닌, "문제를 해결하는 개발"을 목표로**  
-
-> **"Fast, Scalable, and Maintainable."**  
-> 🚀 더 나은 웹을 만들기 위해 성장하는 개발자
-
----
-
-## 🚀 Currently Working On  
-🔹 **[@gather_here](https://github.com/gather_here)** - 소셜 로그인, Zustand 상태 관리, PR 카드 기능 개발  
-🔹 **CS 지식 보완 & React 최적화 공부 중**  
 
 ---
 
