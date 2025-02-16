@@ -1,4 +1,4 @@
-# hihi, I'm ilovezerocokeya!  
+# 👋 Hi, I'm ilovezerocokeya!  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7A3D2&width=435&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;Performance+Optimization;SEO+%26+SSR+Enhancement)](https://git.io/typing-svg)
 
 ---
@@ -6,17 +6,51 @@
 ## 🛠️ Tech Stack  
 <table>
   <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/><br/><b>JavaScript</b></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/><br/><b>TypeScript</b></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" alt="React"/><br/><b>React</b></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/><br/><b>Next.js</b></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=zustand" alt="Zustand"/><br/><b>Zustand</b></td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/><br/>
+      <b>JavaScript</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/><br/>
+      <b>TypeScript</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" alt="React"/><br/>
+      <b>React</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/><br/>
+      <b>Next.js</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/logo.svg" width="40">
+      <br/>
+      <b>Zustand</b>
+    </td>
   </tr>
   <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/><br/><b>Tailwind</b></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/><br/><b>Supabase</b></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/><br/><b>Vercel</b></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/><br/><b>GitHub</b></td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/><br/>
+      <b>Tailwind CSS</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/><br/>
+      <b>Supabase</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/><br/>
+      <b>GitHub</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/en/8/8e/Jira_%28Software%29_logo.svg" width="40"><br/>
+      <b>Jira</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/><br/>
+      <b>Figma</b>
+    </td>
   </tr>
 </table>
 
