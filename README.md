@@ -18,6 +18,22 @@
 
 ---
 
+## 📌 Projects
+
+<div align="center">
+  
+  <!-- @gather_here -->
+  <div style="border: 2px solid #444; border-radius: 10px; padding: 10px; width: 80%; text-align: left; margin-bottom: 10px;">
+    <p>🗓 <strong>2024.07 ~ 진행중</strong> | 👨‍💻 3명의 프론트엔드 개발자 & 🎨 1명의 웹디자이너</p>
+    <p>🚀 <strong>프로젝트 & 스터디 매칭 커뮤니티 <span style="color:#F7A3D2;">"@gather_here"</span></strong></p>
+  </div>
+
+</div>
+
+
+-----
+
+
 ## 🚀 Tech Stack  
 <table>
   <tr>
@@ -52,8 +68,6 @@
   </tr>
 </table>
 
----
-
 ## 🛠 Tools  
 <table>
   <tr>
@@ -78,21 +92,6 @@
 
 ---
 
-## 📌 Projects
-
-<div align="center">
-  <table>
-   <tr>
-      <td width="600">
-        <p><strong>2024.07 ~ 진행중 | Frontend</strong></p>
-        <p>프로젝트 & 스터디 매칭 커뮤니티 <strong>"@gather_here"</strong></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
---
-
 ## 📊 GitHub Stats & Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilovezerocokeya&show_icons=true&theme=tokyonight" width="55%">
@@ -105,9 +104,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ilovezerocokeya&theme=tokyonight&hide_border=true" width="60%">
 </div>
-
----
-
-## 📫 Contact Me  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1470008077a@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ilovezerocokeya)  
