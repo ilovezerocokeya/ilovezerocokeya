@@ -1,8 +1,18 @@
-#  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7A3D2&width=435&lines=👋 + Hi,+I'm+ilovezerocokeya!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7A3D2&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+ilovezerocokeya!)](https://git.io/typing-svg)
+---
+
+## 📝 About Me  
+💡 **Code with Clarity, Build with Purpose.**  
+
+- 🔹 **사용자 경험을 최우선으로 생각하는 개발자**  
+- 🔹 **읽기 쉬운 코드, 유지보수 가능한 코드, 확장 가능한 코드**를 지향  
+- 🔹 **React & TypeScript 기반의 모던 웹 개발에 집중**  
+- 🔹 **퍼포먼스 최적화와 효율적인 상태 관리**에 관심  
+- 🔹 **단순한 기능 구현이 아닌, "문제를 해결하는 개발"을 목표로**  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 Tech Stack  
 <table>
   <tr>
     <td align="center" width="120">
@@ -21,27 +31,46 @@
       <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/><br/>
       <b>Next.js</b>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/><br/>
       <b>Supabase</b>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/><br/>
-      <b>Figma</b>
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/><br/>
+      <b>Tailwind CSS</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/OOjs_UI_icon_bookmark-ltr.svg" width="40"><br/>
+      <b>Styled-Components</b>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📝 About Me  
-💡 **Code with Clarity, Build with Purpose.**  
-
-- 🔹 **사용자 경험을 최우선으로 생각하는 개발자**  
-- 🔹 **읽기 쉬운 코드, 유지보수 가능한 코드, 확장 가능한 코드**를 지향  
-- 🔹 **React & TypeScript 기반의 모던 웹 개발에 집중**  
-- 🔹 **퍼포먼스 최적화와 효율적인 상태 관리**에 관심  
-- 🔹 **단순한 기능 구현이 아닌, "문제를 해결하는 개발"을 목표로**  
+## 🛠 Tools  
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/><br/>
+      <b>Figma</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jira_icon_130618.png" width="40"><br/>
+      <b>Jira</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/><br/>
+      <b>GitHub</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40"><br/>
+      <b>Notion</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
