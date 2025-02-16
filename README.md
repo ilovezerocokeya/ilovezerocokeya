@@ -78,6 +78,21 @@
 
 ---
 
+## 📌 Projects
+
+<div align="center">
+  <table>
+   <tr>
+      <td width="600">
+        <p><strong>2024.07 ~ 진행중 | Frontend</strong></p>
+        <p>프로젝트 & 스터디 매칭 커뮤니티 <strong>"@gather_here"</strong></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+--
+
 ## 📊 GitHub Stats & Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilovezerocokeya&show_icons=true&theme=tokyonight" width="55%">
