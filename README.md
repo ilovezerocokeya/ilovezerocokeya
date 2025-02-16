@@ -1,5 +1,4 @@
-# 👋 Hi, I'm ilovezerocokeya!  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7A3D2&width=435&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;Performance+Optimization;SEO+%26+SSR+Enhancement)](https://git.io/typing-svg)
+# 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7A3D2&width=435&lines=Hi,+I'm+ilovezerocokeya!)](https://git.io/typing-svg)
 
 ---
 
@@ -44,7 +43,7 @@
   </tr>
   <tr>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/en/8/8e/Jira_%28Software%29_logo.svg" width="40"><br/>
+      <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jira_icon_130618.png" width="40"><br/>
       <b>Jira</b>
     </td>
     <td align="center" width="120">
@@ -57,10 +56,16 @@
 ---
 
 ## 📝 About Me  
-- 🔹 **Frontend Developer | React & TypeScript 기반 웹 개발**  
-- 🔹 **SEO & SSR 최적화**, **Lighthouse 성능 개선**에 집중  
-- 🔹 **비효율적인 렌더링 최소화 & 상태 관리 최적화**  
-- 🔹 **단순한 코드가 아닌, "좋은 코드"를 고민하는 개발자**  
+💡 **Code with Clarity, Build with Purpose.**  
+
+- 🔹 **사용자 경험을 최우선으로 생각하는 개발자**  
+- 🔹 **읽기 쉬운 코드, 유지보수 가능한 코드, 확장 가능한 코드**를 지향  
+- 🔹 **React & TypeScript 기반의 모던 웹 개발에 집중**  
+- 🔹 **퍼포먼스 최적화와 효율적인 상태 관리**에 관심  
+- 🔹 **단순한 기능 구현이 아닌, "문제를 해결하는 개발"을 목표로**  
+
+> **"Fast, Scalable, and Maintainable."**  
+> 🚀 더 나은 웹을 만들기 위해 성장하는 개발자
 
 ---
 
@@ -83,16 +88,5 @@
 
 ## 📫 Contact Me  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ilovezerocokeya)  
 
----
-
-## 🎵 Fun Facts  
-🎧 **Favorite Musician:** Kendrick Lamar  
-🔥 **Tech Vision:** Making web apps **faster, smoother, and better**  
-☕ **코딩할 때 필수품:** 아이스 아메리카노  
-
----
-
-🔗 **"Build clean. Optimize smart. Code like a pro."** 🚀  
