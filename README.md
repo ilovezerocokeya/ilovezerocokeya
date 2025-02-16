@@ -40,8 +40,6 @@
       <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/><br/>
       <b>Next.js</b>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/><br/>
       <b>Supabase</b>
@@ -85,8 +83,8 @@
 
 ## 📊 GitHub Stats & Most Used Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilovezerocokeya&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilovezerocokeya&layout=compact&theme=tokyonight" width="44%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilovezerocokeya&show_icons=true&theme=tokyonight" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilovezerocokeya&layout=compact&theme=tokyonight" width="42%">
 </div>
 
 ---
