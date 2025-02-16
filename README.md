@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=F7A3D2&width=500&lines=🚀+Hi,+I'm+ilovezerocokeya!;💻+Frontend+Developer;✨">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=F7A3D2&width=500&lines=🚀+Hi,+I'm+ilovezerocokeya!;💻+Frontend+Developer;">
 </p>
 
 
@@ -51,7 +51,7 @@
       <b>Tailwind CSS</b>
     </td>
     <td align="center" width="120">
-      <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="40"><br/>
+      <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="50"><br/>
       <b>Styled-Components</b>
     </td>
   </tr>
@@ -67,7 +67,7 @@
       <b>Figma</b>
     </td>
     <td align="center" width="120">
-      <img src="https://seeklogo.com/images/J/jira-logo-FD39BE7285-seeklogo.com.png" width="40"><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Jira_Logo.svg" width="50"><br/>
       <b>Jira</b>
     </td>
     <td align="center" width="120">
@@ -85,8 +85,15 @@
 
 ## 📊 GitHub Stats & Most Used Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilovezerocokeya&show_icons=true&theme=tokyonight" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilovezerocokeya&layout=compact&theme=tokyonight" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilovezerocokeya&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilovezerocokeya&layout=compact&theme=tokyonight" width="48%">
+</div>
+
+---
+
+## 🔥 GitHub Streak  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ilovezerocokeya&theme=tokyonight&hide_border=true" width="60%">
 </div>
 
 ---
