@@ -1,34 +1,20 @@
-# Hi, I'm ilovezerocokeya!
-
-### 🚀 Frontend Developer | React, TypeScript, Next.js  
-🎯 **목표:** SEO 최적화, 성능 개선, CS 지식 향상  
-💡 **기술 스택:** JavaScript, TypeScript, React, Next.js, Zustand, TanStack Query  
-🔍 **현재 진행 중:** [@gather_here](https://github.com/gather_here) 프로젝트  
-📈 **관심 분야:** Lighthouse 성능 최적화, SSR 구조 개선  
+# hihi, I'm ilovezerocokeya!  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7A3D2&width=435&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;Performance+Optimization;SEO+%26+SSR+Enhancement)](https://git.io/typing-svg)
 
 ---
 
 ## 🛠️ Tech Stack  
-
 <table>
   <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html,css" alt="HTML & CSS"/><br/><b>HTML & CSS</b></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/><br/><b>JavaScript</b></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/><br/><b>TypeScript</b></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" alt="React"/><br/><b>React</b></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/><br/><b>Next.js</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/><br/><b>Tailwind CSS</b></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=redux" alt="Redux"/><br/><b>Redux</b></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=zustand" alt="Zustand"/><br/><b>Zustand</b></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL"/><br/><b>GraphQL</b></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/><br/><b>Supabase</b></td>
   </tr>
   <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/><br/><b>Node.js</b></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=express" alt="Express"/><br/><b>Express</b></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"/><br/><b>Firebase</b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/><br/><b>Tailwind</b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/><br/><b>Supabase</b></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/><br/><b>Vercel</b></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/><br/><b>GitHub</b></td>
   </tr>
@@ -36,37 +22,43 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilovezerocokeya&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilovezerocokeya&layout=compact&theme=tokyonight)
+## 📝 About Me  
+- 🔹 **Frontend Developer | React & TypeScript 기반 웹 개발**  
+- 🔹 **SEO & SSR 최적화**, **Lighthouse 성능 개선**에 집중  
+- 🔹 **비효율적인 렌더링 최소화 & 상태 관리 최적화**  
+- 🔹 **단순한 코드가 아닌, "좋은 코드"를 고민하는 개발자**  
 
 ---
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=ilovezerocokeya&theme=tokyonight&hide_border=true)
+## 🚀 Currently Working On  
+🔹 **[@gather_here](https://github.com/gather_here)** - 소셜 로그인, Zustand 상태 관리, PR 카드 기능 개발  
+🔹 **CS 지식 보완 & React 최적화 공부 중**  
 
 ---
 
-## 📝 About Me
-- 🚀 **Frontend Developer** with a passion for performance optimization and scalability  
-- 🛠️ Experienced with **React, Next.js, TypeScript, Zustand, Supabase**  
-- 📌 Focused on **SEO optimization, Lighthouse improvements, and SSR restructuring**  
-- 📖 Currently learning **CS fundamentals & advanced web performance tuning**  
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilovezerocokeya&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilovezerocokeya&layout=compact&theme=tokyonight)  
 
 ---
 
-## 📫 Contact Me
+## 🔥 GitHub Streak  
+![GitHub Streak](https://streak-stats.demolab.com?user=ilovezerocokeya&theme=tokyonight&hide_border=true)  
+
+---
+
+## 📫 Contact Me  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ilovezerocokeya)  
 
 ---
 
-## 📌 Fun Facts
-🎵 **Favorite Musician:** Kendrick Lamar  
-🦾 **Current Goal:** Enhance **SSR & SEO optimization** on @gather_here  
-🚀 **Tech Vision:** Building fast, scalable, and accessible web apps  
+## 🎵 Fun Facts  
+🎧 **Favorite Musician:** Kendrick Lamar  
+🔥 **Tech Vision:** Making web apps **faster, smoother, and better**  
+☕ **코딩할 때 필수품:** 아이스 아메리카노  
 
 ---
 
-🔗 **"Embrace the grind, refine the craft, and code like a champion."** 🚀  
+🔗 **"Build clean. Optimize smart. Code like a pro."** 🚀  
