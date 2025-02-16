@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ilovezerocokeya!
+# Hi, I'm ilovezerocokeya!
 
 ### 🚀 Frontend Developer | React, TypeScript, Next.js  
 🎯 **목표:** SEO 최적화, 성능 개선, CS 지식 향상  
@@ -8,24 +8,42 @@
 
 ---
 
-## 🛠️ Tech Stack
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=react&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+## 🛠️ Tech Stack  
+
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html,css" alt="HTML & CSS"/><br/><b>HTML & CSS</b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/><br/><b>JavaScript</b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/><br/><b>TypeScript</b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" alt="React"/><br/><b>React</b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/><br/><b>Next.js</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/><br/><b>Tailwind CSS</b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=redux" alt="Redux"/><br/><b>Redux</b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=zustand" alt="Zustand"/><br/><b>Zustand</b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL"/><br/><b>GraphQL</b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/><br/><b>Supabase</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/><br/><b>Node.js</b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=express" alt="Express"/><br/><b>Express</b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"/><br/><b>Firebase</b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/><br/><b>Vercel</b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/><br/><b>GitHub</b></td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilovezerocokeya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilovezerocokeya&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilovezerocokeya&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilovezerocokeya&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=ilovezerocokeya&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ilovezerocokeya&theme=tokyonight&hide_border=true)
 
 ---
 
