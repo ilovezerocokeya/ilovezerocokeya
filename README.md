@@ -67,7 +67,7 @@
       <b>Figma</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="50">
+      <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="50"><br/>
       <b>Jira</b>
     </td>
     <td align="center" width="120">
@@ -86,6 +86,8 @@
 ## 📊 GitHub Stats & Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilovezerocokeya&show_icons=true&theme=tokyonight" width="50%">
+<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilovezerocokeya&layout=compact&theme=tokyonight" width="45%">
 </div>
 
