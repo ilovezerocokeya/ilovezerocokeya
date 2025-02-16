@@ -85,17 +85,8 @@
 
 ## 📊 GitHub Stats & Most Used Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilovezerocokeya&show_icons=true&theme=tokyonight" width="50%">
-<div>
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilovezerocokeya&show_icons=true&theme=tokyonight" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilovezerocokeya&layout=compact&theme=tokyonight" width="45%">
-</div>
-
----
-
-## 🔥 GitHub Streak  
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ilovezerocokeya&theme=tokyonight&hide_border=true" width="60%">
 </div>
 
 ---
