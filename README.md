@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=F7A3D2&width=500&lines=🚀+Hi,+I'm+ilovezerocokeya!;💻+Frontend+Developer;✨+React+%7C+Next.js+%7C+TypeScript+%7C+Supabase">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=F7A3D2&width=500&lines=🚀+Hi,+I'm+ilovezerocokeya!;💻+Frontend+Developer;✨">
 </p>
+
+
 ---
 
 ## 📝 About Me  
