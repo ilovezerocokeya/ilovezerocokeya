@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=F7A3D2&width=550&lines=%F0%9F%9A%80+Hi%2C+I'm+SEONGJUN%20KIM!;%F0%9F%92%BB+Frontend+Developer;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=F7A3D2&width=300&lines=%F0%9F%9A%80+Hi%2C+I'm+SEONGJUN%20KIM!;%F0%9F%92%BB+Frontend+Developer;">
 </p>
 
 ## 📝 About Me  
