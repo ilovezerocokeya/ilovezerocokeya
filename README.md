@@ -97,10 +97,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ilovezerocokeya&show_icons=true&theme=tokyonight" width="55%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilovezerocokeya&layout=compact&theme=tokyonight" width="42%">
 </div>
-
----
-
-## 🔥 GitHub Streak  
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ilovezerocokeya&theme=tokyonight&hide_border=true" width="60%">
-</div>
